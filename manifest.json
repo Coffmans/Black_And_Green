@@ -1,0 +1,41 @@
+{
+  "manifest_version": 3,
+  "theme": {
+    "images": {
+	  "theme_frame": "images/theme_frame_black.png",
+      "theme_toolbar": "images/theme_toolbar_black.png",
+      "theme_tab_background": "images/theme_tab_background_black.png",
+	  "theme_frame_inactive": "images/theme_frame_black.png",
+	  "theme_frame_incognito": "images/theme_frame_black.png",
+	  "theme_frame_incognito_inactive": "images/theme_frame_black.png"
+    },
+    "colors": {
+      "frame": [0,0,0],
+      "toolbar": [0,0,0],
+      "tab_text": [0,255,0],
+	  "omnibox_text": [248, 248, 242],
+      "omnibox_background": [40, 42, 54],
+      "tab_background_text": [255, 255, 255],
+      "bookmark_text": [15, 255, 0],
+      "ntp_link": [6, 55, 116],	  
+      "ntp_header": [150, 150, 150],	  
+      "ntp_background": [0, 0, 0],
+      "ntp_text": [15, 255, 0],
+      "button_background": [38, 38, 38, 1],
+	  "control_button_background": [0, 0, 0],
+	  "frame_inactive": [0, 0, 0],
+	  "frame_incognito": [0, 0, 0],
+	  "frame_incognito_inactive": [0, 0, 0]
+    },
+    "tints": {
+      "buttons": [0.32,1,0.5]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  },
+  "name": "Black and Green",
+  "version": "1.1",
+  "description": ""
+}
